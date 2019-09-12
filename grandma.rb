@@ -1,6 +1,6 @@
 def speak_to_grandma(phrase) # Write a speak_to_grandma method.
 if phrase.downcase == phrase
-  return "HUH?! , SPEAK UP, SONNY!"
+ return "I LOVE YOU TOO PUMPKIN!"
 elsif phrase.upcase == phrase
   return "NO, NOT SINCE 1938!"
 else
