@@ -4,7 +4,7 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase.upcase != phrase
   return "HUH?! SPEAK UP, SONNY!"
 else
-  phrase == phrase
+  phrase. &&
   return "I LOVE YOU TOO PUMPKIN!"
 end
 end
